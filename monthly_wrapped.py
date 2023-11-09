@@ -55,8 +55,8 @@ if col2.button("🎁Unvail"):
     st.balloons()
     with left_column:
         st.title("Top Tracks 🏆")
-       # dispay_tracks()
+        dispay_tracks()
 
     with right_column:
         st.title("Top Artists 🏆")
-       # dispay_artist()
+        dispay_artist()
