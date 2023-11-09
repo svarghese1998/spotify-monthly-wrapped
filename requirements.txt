@@ -33,9 +33,9 @@ matplotlib-inline==0.1.6
 mdurl==0.1.2
 mypy-extensions==1.0.0
 nest-asyncio==1.5.8
-numpy==1.26.1
+# numpy==1.26.1
 packaging==23.2
-pandas==2.1.2
+# pandas==2.1.2
 parso==0.8.3
 pathspec==0.11.2
 pickleshare==0.7.5
@@ -51,7 +51,7 @@ Pygments==2.16.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3.post1
-#pywin32==306
+# pywin32==306
 pyzmq==25.1.1
 redis==5.0.1
 referencing==0.30.2
